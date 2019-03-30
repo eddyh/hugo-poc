@@ -1,7 +1,6 @@
 ---
-title: "My First Post"
-date: 2019-03-30T09:32:07+01:00
-draft: false
----
+title: My First Post
+date: 2019-03-30 08:32:07 +0000
 
-Welcome!
+---
+Welcome Mar!
