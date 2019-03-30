@@ -8,6 +8,9 @@ theme = "ananke"
 # to /about/, Hugo will rewrite the URL to ../../about/
 relativeURLs = false
 
+# Use browser-sync instead
+disableLiveReload = true
+
 # Site Menus
 # See the Hugo docs for usage in layouts
 # https://gohugo.io/content-management/menus/
