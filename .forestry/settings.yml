@@ -32,6 +32,5 @@ build:
   preview_output_directory: public
   output_directory: public
   instant_preview_command: hugo server -D -E -F --port 34433 --bind 0.0.0.0 --renderToDisk
-    -d public & node_modules/.bin/browser-sync start --proxy "localhost:34433" --listen
-    "0.0.0.0" --port 8080 --no-open --files "public/**/*.*"
+    -d public & node_modules/.bin/browser-sync start --config browser-sync.js
 version: 0.54.0
