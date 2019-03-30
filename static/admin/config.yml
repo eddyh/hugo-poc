@@ -10,7 +10,7 @@ public_folder: "images"
 collections:
   - name: "post"
     label: "Post"
-    folder: "content/post"
+    folder: "content/posts"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
