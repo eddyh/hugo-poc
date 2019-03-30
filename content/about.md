@@ -1,7 +1,6 @@
 ---
-title: "About"
-date: 2019-03-30T09:32:07+01:00
-draft: false
----
+title: About
+date: 2019-03-30 08:32:07 +0000
 
-About
+---
+About2
